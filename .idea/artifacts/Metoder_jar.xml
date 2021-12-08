@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Metoder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Metoder_jar</output-path>
+    <root id="archive" name="Metoder.jar">
+      <element id="module-output" name="Metoder" />
+    </root>
+  </artifact>
+</component>
